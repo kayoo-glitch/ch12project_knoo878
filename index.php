@@ -13,7 +13,10 @@ Date: 11/8/2026
     <p>Date: 11/8/2026</p>
   
   <form action="results.php" method="POST">
-    
+      <label for="email">Student Email Address:</label>
+      <input type="email" id="email" name="email" required>
+
+      <input type="submit" value="Submit">
   </form>
 </body>
 </html>
