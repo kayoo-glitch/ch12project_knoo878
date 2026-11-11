@@ -3,3 +3,19 @@ body {
     background-color: gray;
 }
 
+input[type=text] {
+    padding:5px;
+    margin:20px;
+    border:2px;
+}
+
+input[type=submit] {
+    padding:5px;
+    margin:20px;
+    border:2px;
+}
+
+.message {
+    color: yellow;
+    margin: 10px;
+}
